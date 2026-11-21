@@ -1,3 +1,33 @@
+# React Routing & Firebase Authentication
+
+## Student Information
+
+- **Student Name:** Ektear Md. Touhidul Islam
+- **Student ID:** C241102
+- **Course:** React Routing & Firebase Authentication
+
+## Project Description
+
+This project demonstrates React Routing
+and Firebase Authentication using React.
+
+## Features
+
+- User Registration
+- User Login
+- User Logout
+- Protected Routes
+- Firebase Authentication
+
+## Technologies Used
+
+- React.js
+- Vite
+- React Router DOM
+- Firebase
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
